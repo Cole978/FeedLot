@@ -11,7 +11,7 @@ public class ConexionMySQL {
 
     public String db = "feedlot";
     // public String url = "jdbc:mysql://10.0.0.40:3306/" + db;
-    ///public String url = "jdbc:mysql://192.198.1.46:3306/" + db;
+   // public String url = "jdbc:mysql://192.198.20.10:3306/" + db;
     //public String url = "jdbc:mysql://localhost:3306/" + db;
     public String url = "jdbc:mysql://181.15.126.3:3306/" + db;///modelo
     public String user = "root";
