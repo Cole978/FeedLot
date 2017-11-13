@@ -1,0 +1,3 @@
+INSERT INTO proveedores VALUES (1,'Productos Vacunos 1','direccion','localidad','provincia','111111111','111111111','mail@mail','mail@mail'),(2,'Productos Vacunos 2','direccion2','localidad2','provincia2','222222222','222222222','mail@mail','mail@mail');
+
+INSERT INTO corrales VALUES (1,'CORRAL 1',1),(2,'CORRAL 2',3),(3,'CORRAL 3',2),(4,'CORRAL 4',6),(5,'CORRAL 5',4),(6,'CORRAL 6',5),(7,'CORRAL 7',8);
